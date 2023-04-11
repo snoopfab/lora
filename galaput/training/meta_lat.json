@@ -1,0 +1,110 @@
+{
+  "D:/Deep-Learning/kohya_ss/lora/training/15_galaput\\20220120_190150.jpg": {
+    "train_resolution": [
+      576,
+      448
+    ]
+  },
+  "D:/Deep-Learning/kohya_ss/lora/training/15_galaput\\20220816_180839.jpg": {
+    "train_resolution": [
+      512,
+      512
+    ]
+  },
+  "D:/Deep-Learning/kohya_ss/lora/training/15_galaput\\20220816_180843.jpg": {
+    "train_resolution": [
+      512,
+      512
+    ]
+  },
+  "D:/Deep-Learning/kohya_ss/lora/training/15_galaput\\20220901_130652.jpg": {
+    "train_resolution": [
+      512,
+      512
+    ]
+  },
+  "D:/Deep-Learning/kohya_ss/lora/training/15_galaput\\20221128_212607.jpg": {
+    "train_resolution": [
+      576,
+      448
+    ]
+  },
+  "D:/Deep-Learning/kohya_ss/lora/training/15_galaput\\20221210_191730.jpg": {
+    "train_resolution": [
+      512,
+      512
+    ]
+  },
+  "D:/Deep-Learning/kohya_ss/lora/training/15_galaput\\IMG_20211216_223240.jpg": {
+    "train_resolution": [
+      576,
+      448
+    ]
+  },
+  "D:/Deep-Learning/kohya_ss/lora/training/15_galaput\\IMG_20211216_223244.jpg": {
+    "train_resolution": [
+      576,
+      448
+    ]
+  },
+  "D:/Deep-Learning/kohya_ss/lora/training/15_galaput\\IMG_20220106_183335.jpg": {
+    "train_resolution": [
+      448,
+      576
+    ]
+  },
+  "D:/Deep-Learning/kohya_ss/lora/training/15_galaput\\IMG_20220221_175647.jpg": {
+    "train_resolution": [
+      576,
+      448
+    ]
+  },
+  "D:/Deep-Learning/kohya_ss/lora/training/15_galaput\\IMG_20220222_180817.jpg": {
+    "train_resolution": [
+      576,
+      448
+    ]
+  },
+  "D:/Deep-Learning/kohya_ss/lora/training/15_galaput\\IMG_20220425_192937.jpg": {
+    "train_resolution": [
+      448,
+      576
+    ]
+  },
+  "D:/Deep-Learning/kohya_ss/lora/training/15_galaput\\IMG_20220425_195019.jpg": {
+    "train_resolution": [
+      512,
+      512
+    ]
+  },
+  "D:/Deep-Learning/kohya_ss/lora/training/15_galaput\\IMG_20220425_195025.jpg": {
+    "train_resolution": [
+      448,
+      576
+    ]
+  },
+  "D:/Deep-Learning/kohya_ss/lora/training/15_galaput\\IMG_20220425_195034.jpg": {
+    "train_resolution": [
+      448,
+      576
+    ]
+  },
+  "D:/Deep-Learning/kohya_ss/lora/training/15_galaput\\IMG_20220425_195638.jpg": {
+    "train_resolution": [
+      576,
+      448
+    ]
+  },
+  "D:/Deep-Learning/kohya_ss/lora/training/15_galaput\\IMG_20220425_195711.jpg": {
+    "train_resolution": [
+      448,
+      576
+    ]
+  },
+  "D:/Deep-Learning/kohya_ss/lora/training/15_galaput\\Snapchat-524930099.jpg": {
+    "train_resolution": [
+      320,
+      704
+    ]
+  }
+}
